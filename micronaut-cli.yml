@@ -1,0 +1,5 @@
+profile: service
+defaultPackage: br.com.challenge
+---
+testFramework: kotlintest
+sourceLanguage: kotlin
